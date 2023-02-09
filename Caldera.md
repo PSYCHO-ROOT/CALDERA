@@ -25,7 +25,7 @@ In short, CALDERA helps defenders to better respond to adversary behaviors by de
 * Operations
 * Plugins
 
-just Chill, i'll explain them
+#### Just Chill, i'll explain them :
 
 ## Agents
 Agents are simple software programs that run on hosts/endpoints and facilitate communication to the CALDERA server.
