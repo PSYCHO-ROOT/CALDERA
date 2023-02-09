@@ -42,3 +42,30 @@ When deploying an agent, users have a variety of configuration options to custom
 ![net](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*NASr0xMKyUKEKiHX3rBK1g.png)
 
 ## Abilities
+The abilities within CALDERA are specific ATT&CK tactics or techniques that can be executed on agents. An ability consists of the following components:
+
+![net](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HxBTayt-1oMkXjBVf3_a3w.png)
+
+## Adversaries
+Adversary profiles are collections of abilities which represent the tactics, techniques, and procedures (TTPs) that can be leveraged by threat actors.
+The ATT&CK framework outlines these TTPs, which CALDERA uses to create the adversary profiles which are then executed in an operation. 
+
+In short, adversary profiles determine which abilities will be executed during operations.
+
+An adversary consists of the following components:
+
+![net](https://miro.medium.com/v2/resize:fit:720/format:webp/1*djRX7MutQ5WcGM1YiCdvog.png)
+
+## Operations
+CALDERA operations combine agents, abilities, and adversaries to execute attacks against specific targets.
+
+An operation is comprised of the following characteristics:
+
+![net](https://miro.medium.com/v2/resize:fit:720/format:webp/1*tQzxPOTn6qjeaxSEef-f5Q.png)
+
+# SUMMARY
+* First of all u need to add an ***Agent*** as a host that you will execute the operations on
+* Then u will go to operations to choose an ***Adversarie*** to execute.
+* The adversaries are The ***Tactics*** from the ***MITRE ATT&CK***
+* The adversarie itself have the ***Abilities***
+* The abilites are The ***Techniques*** from the MITRE ATT&CK
