@@ -2,7 +2,7 @@
 
 ![net](https://repository-images.githubusercontent.com/112409981/e17c0200-8cb2-11eb-8cae-d818ce9e6d65)
 
-So after exosting my mind in the F 0Fpp7 I decided to understand it on my own and share it with classmate to make it easiyer for them, Not all ;)
+So after exhausting my mind in the F 0Fpp7 I decided to understand it on my own and share it with classmate to make it easiyer for them, Not all ;)
 
 ## What's Mitre Caldera ?
 Caldera is a framework intended to empower cyber practitioners — whether red or blue teams — to save time, money, and energy through automated security assessments.
